@@ -1,6 +1,0 @@
-package console.demo;
-
-public class Foo {
-    @Value("Hello, world!")
-    public String value;
-}

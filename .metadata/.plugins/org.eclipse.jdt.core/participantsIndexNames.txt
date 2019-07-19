@@ -1,9 +1,0 @@
-INDEX VERSION 1.131
-C:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1758300804.index
-\spring-5-web-mvc-configurer-default-methods\src\main\java
-C:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2493697048.index
-\JSP01_simple\src
-C:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3763679644.index
-\spring-boot-demo\src\main\java
-C:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3952210528.index
-\Springbootcrudoperation\src\main\java
