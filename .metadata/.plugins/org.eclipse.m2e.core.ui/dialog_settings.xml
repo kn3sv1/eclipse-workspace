@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\eclipse-workspace"/>
+			<item value="C:\eclipse-workspace\"/>
+			<item value="C:\eclipse-workspace\HibernateExampleXML2\src\main\java\com\mkyong\common\ManageEmployee.java"/>
+			<item value="C:\eclipse-workspace\HibernateExampleXML\pom.xml"/>
+			<item value="C:\eclipse-workspace\hibernate-tutorial\src\main\java\com\boraji\tutorial\hibernate\entity\Country.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="satadev.console"/>
+			<item value="satadev.console.demo"/>
+			<item value="jwt.example"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="springboot-console"/>
+			<item value="spring-console"/>
+			<item value="demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\eclipse-workspace\spring-boot-demo-jsp-example\spring-boot-demo"/>
+			<item value="C:\eclipse-workspace\spring-boot-jwt-without-JPA"/>
+			<item value="C:\eclipse-workspace\spring-boot-jwt"/>
+			<item value="C:\eclipse-workspace\spring-boot-jwt-without-JPA\spring-boot-jwt"/>
+			<item value="C:\eclipse-workspace\spring-security-jwt-mysql"/>
+			<item value="C:\eclipse-workspace\spring-boot-security-jwt-example"/>
+			<item value="C:\eclipse-workspace\jpa-many-to-one-relationship"/>
+			<item value="C:\eclipse-workspace\hellokoding-courses\jpa-hibernate-examples\jpa-hibernate-one-to-many-mysql"/>
+			<item value="C:\eclipse-workspace\hellokoding-courses\springboot-examples\springdatarest-mysql-one-to-many"/>
+			<item value="C:\eclipse-workspace\Springbootcrudoperation"/>
+			<item value="C:\eclipse-workspace\spring-boot-crud"/>
+			<item value="C:\eclipse-workspace\springboot-crud-mysql-vuejs"/>
+			<item value="C:\eclipse-workspace\monitor"/>
+			<item value="C:\eclipse-workspace\spring-5-web-mvc-configurer-default-methods"/>
+			<item value="C:\eclipse-workspace\HibernateExampleXML"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

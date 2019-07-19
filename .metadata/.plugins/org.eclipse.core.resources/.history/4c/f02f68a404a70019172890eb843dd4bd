@@ -1,0 +1,5 @@
+package com.satadev.monitor.entity;
+
+public class Customer {
+
+}

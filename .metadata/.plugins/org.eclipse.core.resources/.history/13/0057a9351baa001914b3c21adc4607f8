@@ -1,0 +1,13 @@
+package console.demo;
+
+public class Bar {
+	Foo f;
+	public Bar(Foo foo) {
+		f = foo;
+	}
+	
+	public getValue123()
+	{
+		return f.value;
+	}
+}
